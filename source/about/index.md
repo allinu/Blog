@@ -11,6 +11,7 @@ sticky: 2
 swiper_index: 2
 keywords: 
   - Python
+type: about
 date: 2023-02-04 13:24
 updated: 2023-03-02 09:44
 ---
