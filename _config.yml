@@ -14,7 +14,7 @@ timezone: ''
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://blog.allinu.vercel.app
-permalink: /post/:title/index.html
+permalink: post/:title/index.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -29,6 +29,7 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+root: /
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -97,7 +98,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: aurora
+theme: butterfly
 mathjax:
   tags: none # 或 'ams' 或 'all'
   single_dollars: true # 启用单个美元符号作为内联（行内）数学公式定界符
