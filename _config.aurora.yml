@@ -70,11 +70,17 @@ theme:
 #! ---------------------------------------------------------------
 socials:
   customs:
-  ##! Example:
-  ##! --- Using SVG
     bilibili:
       icon: /svg/Bilibili.svg
       link: https://space.bilibili.com/226944104
+    telegram:
+      icon: fal fa-telegram
+      link: https://t.me/hacker_videos
+  ##! Example:
+  ##! --- Using SVG
+  # bilibili:
+  #   icon: /svg/Bilibili.svg
+  #   link: https://space.bilibili.com/226944104
 
   ##! --- Using IconFont
   # baidu:
