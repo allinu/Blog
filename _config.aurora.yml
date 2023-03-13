@@ -74,8 +74,14 @@ socials:
       icon: /svg/Bilibili.svg
       link: https://space.bilibili.com/226944104
     telegram:
-      icon: fal fa-telegram
+      icon: /svg/Telegram.svg
       link: https://t.me/hacker_videos
+    notion:
+      icon: /svg/Notion.svg
+      link: https://allinu.notion.site/8d938749cc9d443799d1e43af930dca3
+    github:
+      icon: /svg/GitHub.svg
+      link: https://github.com/allinu
   ##! Example:
   ##! --- Using SVG
   # bilibili:
