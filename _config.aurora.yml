@@ -80,7 +80,7 @@ socials:
       icon: /svg/Notion.svg
       link: https://allinu.notion.site/8d938749cc9d443799d1e43af930dca3
     github:
-      icon: /svg/GitHub.svg
+      icon: /svg/Github.svg
       link: https://github.com/allinu
   ##! Example:
   ##! --- Using SVG
