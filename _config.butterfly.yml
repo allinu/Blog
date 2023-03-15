@@ -11,6 +11,23 @@ menu:
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
+# aside (側邊欄)
+# --------------------------------------
+aside:
+  enable: true
+  hide: false
+  button: true
+  mobile: false # display on mobile
+  position: right # left or right
+  card_author:
+    enable: true
+    description:
+    button:
+      enable: true
+      icon: fab fa-github
+      text: Github 主页
+      link: https://github.com/allinu
+
 theme_color:
   enable: true
   main: "#49B1F5"
