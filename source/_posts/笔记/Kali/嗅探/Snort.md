@@ -1,19 +1,22 @@
 ---
 title: Snort
 description: 
-cover: https://telegraph-image-aog.pages.dev/file/026a2952f590b2903ec90.png
+cover: https://images.unsplash.com/photo-1665836723795-692a918209a5?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzNjM5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Nzg4ODU1Mjc&ixlib=rb-4.0.3&q=80&w=1920&h=1080
 mathjax: true
 tags:
+  - 笔记
+  - Kali
   - 嗅探
 categories:
-  - 嗅探
+  - Kali
 abbrlink: 
-sticky: 2
 swiper_index: 2
 keywords: 
 date: 2023-03-11 21:25
-updated: 2023-03-11 21:25
+updated: 2023-03-15 21:05
 ---
+
+
 
 ![](https://telegraph-image-aog.pages.dev/file/411311bd5db0283a3e6e5.png)
 

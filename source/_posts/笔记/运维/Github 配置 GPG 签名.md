@@ -1,19 +1,21 @@
 ---
 title: Github 配置 GPG 签名
 description: 
-cover: https://images.unsplash.com/photo-1432821596592-e2c18b78144f?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzNjM5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Nzg1NDkyNTE&ixlib=rb-4.0.3&q=80&w=1920&h=1080
+cover: https://images.unsplash.com/photo-1518976224508-8119c10fabad?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzNjM5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Nzg4ODU0ODg&ixlib=rb-4.0.3&q=80&w=1920&h=1080
 mathjax: true
 tags:
+  - 笔记
   - 运维
 categories:
   - 运维
 abbrlink: 
-sticky: 2
 swiper_index: 2
 keywords: 
 date: 2023-03-11 15:38
-updated: 2023-03-11 23:40
+updated: 2023-03-15 21:04
 ---
+
+
 
 设置完GPG签名就可以达到下面的显示效果了，就是会显示 **Verified**
 

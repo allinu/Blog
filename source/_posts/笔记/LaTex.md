@@ -1,19 +1,19 @@
 ---
 title: LaTex
 description: 
+cover: https://images.unsplash.com/photo-1532256791400-f02a086ca4bd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzNjM5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Nzg4ODU1NjI&ixlib=rb-4.0.3&q=80&w=1920&h=1080
 mathjax: true
-cover: https://images.unsplash.com/photo-1651911840020-7d41535dcf88?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzNjM5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzgzODE3NzE&ixlib=rb-4.0.3&q=80&w=1920&h=1080
 tags:
   - 笔记
 categories:
-  - 笔记
+  - LaTex.md
 abbrlink: 
-sticky: 2
 swiper_index: 2
-keywords: LaTex
+keywords: 
 date: 2023-02-03 19:17
-updated: 2023-03-02 09:35
+updated: 2023-03-15 21:06
 ---
+
 
 # 符号
 

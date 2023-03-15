@@ -1,19 +1,20 @@
 ---
 title: Kali 安装 Parallels Tools
 description: 
+cover: https://images.unsplash.com/photo-1523571991364-a7c2e9bb7b63?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzNjM5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Nzg4ODU1Mzg&ixlib=rb-4.0.3&q=80&w=1920&h=1080
 mathjax: true
-cover: https://images.unsplash.com/photo-1651911840020-7d41535dcf88?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzNjM5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzgzODE3NzE&ixlib=rb-4.0.3&q=80&w=1920&h=1080
 tags:
+  - 笔记
   - Kali
 categories:
   - Kali
 abbrlink: 
-sticky: 2
 swiper_index: 2
 keywords: 
 date: 2023-03-01 15:09
-updated: 2023-03-02 00:37
+updated: 2023-03-15 21:05
 ---
+
 
     系统版本：Linux kali 6.0.0-kali3-arm64 #1 SMP Debian 6.0.7-1kali1 (2022-11-07) aarch64 GNU/Linux
     撰写时间：2023年03月01日 15:31

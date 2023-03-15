@@ -1,5 +1,7 @@
 #!/bin/bash
 
+rm -rf ./public
+rm -rf ./db.json
 rm -rf source/_posts/*
 cp -r $NOTES_PATH/* source/_posts/
 

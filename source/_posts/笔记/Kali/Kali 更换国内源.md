@@ -1,18 +1,18 @@
 ---
 title: Kali 更换国内源
 description: 
+cover: https://images.unsplash.com/photo-1587395163541-4b1e914b9d14?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzNjM5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Nzg4ODU1NTI&ixlib=rb-4.0.3&q=80&w=1920&h=1080
 mathjax: true
-cover: https://images.unsplash.com/photo-1651911840020-7d41535dcf88?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzNjM5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzgzODE3NzE&ixlib=rb-4.0.3&q=80&w=1920&h=1080
 tags:
+  - 笔记
   - Kali
 categories:
   - Kali
 abbrlink: 
-sticky: 2
 swiper_index: 2
 keywords: 
 date: 2023-03-01 15:44
-updated: 2023-03-02 09:30
+updated: 2023-03-15 21:05
 ---
 
 ## 清华

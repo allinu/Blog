@@ -1,19 +1,21 @@
 ---
 title: Nmap
 description: 
-cover: https://images.unsplash.com/photo-1603899122634-f086ca5f5ddd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzNjM5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Nzg0NzMxNjg&ixlib=rb-4.0.3&q=80&w=1920&h=1080
+cover: https://images.unsplash.com/photo-1625404523742-0b2c1e82c869?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzNjM5Nzd8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Nzg4ODU1MTU&ixlib=rb-4.0.3&q=80&w=1920&h=1080
 mathjax: true
 tags:
+  - 笔记
+  - Kali
   - 工具
 categories:
-  - 工具
+  - Kali
 abbrlink: 
-sticky: 2
 swiper_index: 2
 keywords: 
 date: 2023-03-11 02:23
-updated: 2023-03-11 02:32
+updated: 2023-03-15 21:05
 ---
+
 
 ## 介绍
 
